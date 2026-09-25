@@ -1,5 +1,7 @@
 **CLA-6**
-<img src="eiffel.png" alt="Output Image" width="200">
+
+<img src="cat...jpg" alt="Output Image" width="200">
+
 **#Aim**
 
 To perform intensity-level slicing on a grayscale image using a specified intensity range, in order to highlight the pixels within that range and observe the effect both with and without retaining the background.
