@@ -1,6 +1,7 @@
 **CLA-6**
 
-<img src="cat...jpg" alt="Output Image" width="200">
+<img src="cats...jpgn" alt="Output Image" width="200">
+<img src="cats.png" alt="Output Image" width="200">
 
 **#Aim**
 
